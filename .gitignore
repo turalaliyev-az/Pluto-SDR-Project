@@ -1,0 +1,19 @@
+# Yığılmış (Compiled) binar fayllar
+raspi
+rx
+tx
+rx_nasa
+tx_nasa
+rx_nasa_gui
+yer
+tekmil
+*.out
+*.o
+
+# Müvəqqəti və şəkil faylları
+*.jpg
+*.tmp
+*.log
+
+# Redaktor ayarları
+.vscode/
